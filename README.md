@@ -28,7 +28,7 @@ All data is stored in-memory (no database).
 
 ## Installation & Setup
 1. Clone the repository:
-   git clone https://github.com/Viswa2708/RESTful API PROJECT.git
+   git clone https://github.com/Viswa2708/RESTful_API_PROJECT.git
    cd library-api
 2. Install dependencies
    npm install
