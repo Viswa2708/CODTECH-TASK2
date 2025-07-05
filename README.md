@@ -1,5 +1,14 @@
+Name: VISWA V
 
+Company: CODTECH IT SOLUTIONS
 
+ID: CT04DG3413
+
+Domain: SOFTWARE DEVELOPMENT
+
+Duration: June to July 2025
+
+Mentor: Vaishali
 
 #  Library RESTful API
 A simple RESTful API built with Node.js and Express to manage a library of books.  
