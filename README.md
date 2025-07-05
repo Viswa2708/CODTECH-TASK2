@@ -28,7 +28,7 @@ All data is stored in-memory (no database).
 
 ## Installation & Setup
 1. Clone the repository:
-   git clone https://github.com/viswa2708/library-api.git
+   git clone https://github.com/Viswa2708/library-api.git
    cd library-api
 2. Install dependencies
    npm install
